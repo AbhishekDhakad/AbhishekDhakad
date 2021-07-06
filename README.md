@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Abhishek Dhakad</h1>
 <h3 align="center">A passionate python developer, web developer and competitive programmer.</h3>
 
